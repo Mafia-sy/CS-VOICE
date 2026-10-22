@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "C:\Users\ismae\OneDrive\Documents\MAFIA_VOICE_CONTROL_V3_1_1_FIXED\MAFIA_VOICE_CONTROL_V3_1_TRANSLATION\launch.py", line 13, in main
+    gui_main()
+  File "C:\Users\ismae\OneDrive\Documents\MAFIA_VOICE_CONTROL_V3_1_1_FIXED\MAFIA_VOICE_CONTROL_V3_1_TRANSLATION\mafia_voice_v3.py", line 881, in main
+    sys.exit(app.exec())
+SystemExit: 0

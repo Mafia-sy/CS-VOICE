@@ -1,0 +1,20 @@
+{
+  "target_process": "cs2.exe",
+  "model": "small",
+  "speech_mode": "arabic_translate",
+  "english_model": "base.en",
+  "arabic_model": "small",
+  "auto_send": true,
+  "team_only": true,
+  "team_chat_key": "u",
+  "all_chat_key": "y",
+  "push_to_talk_key": "f8",
+  "toggle_chat_key": "f9",
+  "microphone_device": 22,
+  "max_seconds": 8,
+  "silence_rms": 0.006,
+  "max_chars": 110,
+  "chat_open_delay": 0.22,
+  "type_interval": 0.012,
+  "minimize_to_tray": true
+}
